@@ -7,7 +7,7 @@ body {
 
 }
 .page-header {
-    background-color: #ff8400;
+    background-color: #ff5508;
     margin-top: 0;
     padding: 30px 20px 20px 60px;
 }
@@ -24,11 +24,11 @@ body {
 
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
-    margin-left: 40px;
+    margin-left: 60px;
 }
 
 .date {
-    color: #0033cc;
+    color: #0043cc;
 }
 
 .save {
@@ -36,13 +36,13 @@ h1, h2, h3, h4 {
 }
 
 .post-form textarea, .post-form input {
-    width: 100%;
+    width: 80%;
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #fff;
     float: right;
-    font-size: 26pt;
+    font-size: 40pt;
     margin-right: 20px;
 }
 
